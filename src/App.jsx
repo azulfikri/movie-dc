@@ -65,7 +65,7 @@ function App() {
         </div>
       )}
       <div style={{ textAlign: 'center' }}>
-        <p>&copy; Dunia Coding {new Date().getFullYear()}</p>
+        <p>&copy; Demtimcode Community {new Date().getFullYear()}</p>
       </div>
     </div>
   );
